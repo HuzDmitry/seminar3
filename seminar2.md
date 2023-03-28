@@ -26,4 +26,4 @@ git status
 
 ## добавление таблиц
 
-
+dddd | dddd| 
