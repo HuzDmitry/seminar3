@@ -28,11 +28,13 @@ git status
 пример набора кода Java 
 
 *** Java*** 
-class Main 
-* строка 1
-* строка 2
-* строка 3
+```
+class Main {
+    static void main (String [] args)
+        System.out.println("Hello Git");
+}
 
+```
 ## добавление таблиц
 
 dddd | dddd| 
