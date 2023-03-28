@@ -54,4 +54,9 @@ class Main {
 ```
 ## добавление таблиц
 
-dddd | dddd| 
+__strong__ *strong* **strong** ***strong***
+
+|заголовок 1 | заголовок 2 |
+|:----------:|:-----------:|
+|~~data~~    | **data**    |
+|data        | ``data``    |
